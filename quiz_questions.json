@@ -1,0 +1,122 @@
+[
+    {
+        "question": "Quelle est la meilleure m\u00e9thode pour conserver un poisson frais?",
+        "options": [
+            "R\u00e9frig\u00e9ration imm\u00e9diate",
+            "S\u00e9chage au soleil",
+            "Temp\u00e9rature ambiante",
+            "Cong\u00e9lation sans emballage"
+        ],
+        "answer": "R\u00e9frig\u00e9ration imm\u00e9diate"
+    },
+    {
+        "question": "Quel poisson est le plus riche en om\u00e9ga-3?",
+        "options": [
+            "Saumon",
+            "Thon",
+            "Merlan",
+            "Cabillaud"
+        ],
+        "answer": "Saumon"
+    },
+    {
+        "question": "Quel poisson est le plus recommand\u00e9 pour les enfants?",
+        "options": [
+            "Saumon",
+            "Truite",
+            "Sardines",
+            "Cabillaud"
+        ],
+        "answer": "Saumon"
+    },
+    {
+        "question": "Quel poisson est id\u00e9al pour les adultes et les seniors?",
+        "options": [
+            "Maquereau",
+            "Thon",
+            "Fl\u00e9tan",
+            "Sole"
+        ],
+        "answer": "Maquereau"
+    },
+    {
+        "question": "Quel poisson est le plus adapt\u00e9 aux personnes diab\u00e9tiques?",
+        "options": [
+            "Saumon",
+            "Tilapia",
+            "Sardines",
+            "Truite"
+        ],
+        "answer": "Saumon"
+    },
+    {
+        "question": "Quelle m\u00e9thode de cuisson conserve le mieux les nutriments du poisson?",
+        "options": [
+            "Grill\u00e9",
+            "Frit",
+            "Vapeur",
+            "Bouilli"
+        ],
+        "answer": "Vapeur"
+    },
+    {
+        "question": "Quel poisson contient le plus de vitamine D?",
+        "options": [
+            "Saumon",
+            "Anguille",
+            "Hareng",
+            "Sardines"
+        ],
+        "answer": "Hareng"
+    },
+    {
+        "question": "Quelle est la dur\u00e9e id\u00e9ale pour congeler un poisson sans perdre sa qualit\u00e9?",
+        "options": [
+            "1 mois",
+            "3 mois",
+            "6 mois",
+            "12 mois"
+        ],
+        "answer": "6 mois"
+    },
+    {
+        "question": "Quel poisson est le plus conseill\u00e9 pour les femmes enceintes?",
+        "options": [
+            "Saumon",
+            "Sardines",
+            "Maquereau",
+            "Fl\u00e9tan"
+        ],
+        "answer": "Sardines"
+    },
+    {
+        "question": "Quel poisson est d\u00e9conseill\u00e9 en raison de sa forte concentration en mercure?",
+        "options": [
+            "Thon",
+            "Saumon",
+            "Truite",
+            "Cabillaud"
+        ],
+        "answer": "Thon"
+    },
+    {
+        "question": "Quelle est la meilleure fa\u00e7on de conserver un poisson au r\u00e9frig\u00e9rateur?",
+        "options": [
+            "Dans un r\u00e9cipient herm\u00e9tique",
+            "\u00c0 l\u2019air libre",
+            "Dans du papier journal",
+            "Immerg\u00e9 dans l\u2019eau"
+        ],
+        "answer": "Dans un r\u00e9cipient herm\u00e9tique"
+    },
+    {
+        "question": "Quel poisson est id\u00e9al pour une alimentation riche en prot\u00e9ines et faible en gras?",
+        "options": [
+            "Sole",
+            "Tilapia",
+            "Truite",
+            "Saumon"
+        ],
+        "answer": "Tilapia"
+    }
+]
